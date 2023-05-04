@@ -1,8 +1,5 @@
 from flask import Flask, jsonify
 
-# iniciar o servidor Flask:
-# python app.py
-
 # Cria uma instância do Flask
 app = Flask(__name__)
 
@@ -21,3 +18,4 @@ def quadrado(num):
 if __name__ == '__main__':
     app.run(debug=True)
 
+# python app.py
