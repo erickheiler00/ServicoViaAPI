@@ -17,7 +17,7 @@ def quadrado(num):
     result = num ** 2
     return jsonify({'Elevado ao quadrado': result})
 
-# Executa o aplicativo
+# Executa 
 if __name__ == '__main__':
     app.run(debug=True)
 
