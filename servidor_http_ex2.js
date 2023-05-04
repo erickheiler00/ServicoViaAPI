@@ -16,7 +16,7 @@ server.listen(1337, '127.0.0.1', () => {
 }) 
 
 // inicializar com nodemon
-// nodemon servidor_http_ex.js
+// nodemon servidor_http_ex2.js
 
 // alterar a política de execução do PowerShell temporariamente para permitir a execução de scripts não assinados.
 // Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
